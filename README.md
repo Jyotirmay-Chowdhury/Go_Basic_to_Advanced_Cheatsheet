@@ -1,36 +1,36 @@
 # Go_Basic_to_Advanced_Cheatsheet
 Go_Basic_to_Advanced_Cheatsheet
 
-Go Introduction
-Go Get Started
+1) Go Introduction
+2) Go Get Started
 
-Go Syntax
+3) Go Syntax
 
-Go Comments
+4) Go Comments
 
-Go Variables
+5) Go Variables
 
-Go Constants
+6) Go Constants
 
-Go Output
+7) Go Output
 
-Go Data Types
+8) Go Data Types
 
-Go Arrays
+9) Go Arrays
 
-Go Slices
+10) Go Slices
 
-Go Operators
+11) Go Operators
 
-Go Conditions
+12) Go Conditions
 
-Go Switch
+13) Go Switch
 
-Go Loops
+14) Go Loops
 
-Go Functions
+15) Go Functions
 
-Go Struct
+16) Go Struct
 
-Go Maps
+17) Go Maps
 
