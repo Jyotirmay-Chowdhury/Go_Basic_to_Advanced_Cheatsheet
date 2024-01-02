@@ -34,3 +34,4 @@ Go_Basic_to_Advanced_Cheatsheet
 
 17) Go Maps
 
+These are the main fundamentals of the Go-lang. 
